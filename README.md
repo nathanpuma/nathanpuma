@@ -1,10 +1,9 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Nathan👋
 
 ## 👨‍💻 About Me
-- 🔭 I’m currently working on ...
-- 🌱 I’m learning ...
-- 💬 Ask me about ...
-- 📫 How to reach me: [Email](mailto:your-email@example.com)
+- 🔭 I’m currently working on working as a Front End Developer Intern at 55 Tech
+- 🌱 I major in Computer Science at the University of Sydney
+- 📫 How to reach me: nathanpuma02@gmail.com(mailto:nathanpuma@gmail.com)
 
 ## 🛠️ Skills
 - Programming: JavaScript, Python, ...
