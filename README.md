@@ -33,6 +33,6 @@ I'm a Computer Science student at the University of Sydney, currently studying f
 
 ## 📫 Connect with me:
 
-- [LinkedIn](https://linkedin.com/in/nathanpuma)
+- [LinkedIn](https://www.linkedin.com/in/nathan-puma-4413b216a)
 - [GitHub](https://github.com/nathanpuma)
 - nathanpuma02@gmail.com
